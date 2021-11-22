@@ -11,3 +11,4 @@ Your applet should make use of reactivity in both components, but the specifics 
 
 Once you're satisfied with your applet, upload it to [ShinyApps.io](https://www.shinyapps.io/) and edit this README to contain a link to your applet.
 
+https://chaddybox.shinyapps.io/11_interactive_graphics/
